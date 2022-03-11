@@ -1,0 +1,38 @@
+[options="header"]
+|=======================================================================
+|BIP# | Title |Owner |Type |Status
+|[[bip-1]]https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki[BIP-1] |BIP Purpose and Guidelines |Amir Taaki |Process |Replaced
+|[[bip-2]]https://github.com/bitcoin/bips/blob/master/bip-0002.mediawiki[BIP-2] |BIP process, revised |Luke Dashjr |Process |Active
+|[[bip-8]]https://github.com/bitcoin/bips/blob/master/bip-0008.mediawiki[BIP-8] |Version bits with guaranteed lock-in |Shaolin Fry |Informational |Draft
+|[[bip-9]]https://github.com/bitcoin/bips/blob/master/bip-0009.mediawiki[BIP-9] |Version bits with timeout and delay |Pieter Wuille, Peter Todd, Greg Maxwell, Rusty Russell |Informational |Final
+|[[bip-10]]https://github.com/bitcoin/bips/blob/master/bip-0010.mediawiki[BIP-10] |Multi-Sig Transaction Distribution |Alan Reiner |Informational |Withdrawn
+|[[bip-11]]https://github.com/bitcoin/bips/blob/master/bip-0011.mediawiki[BIP-11] |M-of-N Standard Transactions |Gavin Andresen |Standard |Final
+|[[bip-12]]https://github.com/bitcoin/bips/blob/master/bip-0012.mediawiki[BIP-12] |OP_EVAL |Gavin Andresen |Standard |Withdrawn
+|[[bip-13]]https://github.com/bitcoin/bips/blob/master/bip-0013.mediawiki[BIP-13] |Address Format for pay-to-script-hash |Gavin Andresen |Standard |Final
+|[[bip-14]]https://github.com/bitcoin/bips/blob/master/bip-0014.mediawiki[BIP-14] |Protocol Version and User Agent |Amir Taaki, Patrick Strateman |Standard |Final
+|[[bip-15]]https://github.com/bitcoin/bips/blob/master/bip-0015.mediawiki[BIP-15] |Aliases |Amir Taaki |Standard |Deferred
+|[[bip-16]]https://github.com/bitcoin/bips/blob/master/bip-0016.mediawiki[BIP-16] |Pay to Script Hash |Gavin Andresen |Standard |Final
+|[[bip-17]]https://github.com/bitcoin/bips/blob/master/bip-0017.mediawiki[BIP-17] |OP_CHECKHASHVERIFY (CHV) |Luke Dashjr |Standard |Withdrawn
+|[[bip-18]]https://github.com/bitcoin/bips/blob/master/bip-0018.mediawiki[BIP-18] |hashScriptCheck |Luke Dashjr |Standard |Proposed
+|[[bip-19]]https://github.com/bitcoin/bips/blob/master/bip-0019.mediawiki[BIP-19] |M-of-N Standard Transactions (Low SigOp) |Luke Dashjr |Standard |Draft
+|[[bip-20]]https://github.com/bitcoin/bips/blob/master/bip-0020.mediawiki[BIP-20] |URI Scheme |Luke Dashjr |Standard |Replaced
+|[[bip-21]]https://github.com/bitcoin/bips/blob/master/bip-0021.mediawiki[BIP-21] |URI Scheme |Nils Schneider, Matt Corallo |Standard |Final
+|[[bip-22]]https://github.com/bitcoin/bips/blob/master/bip-0022.mediawiki[BIP-22] |getblocktemplate - Fundamentals |Luke Dashjr |Standard |Final
+|[[bip-23]]https://github.com/bitcoin/bips/blob/master/bip-0023.mediawiki[BIP-23] |getblocktemplate - Pooled Mining |Luke Dashjr |Standard |Final
+|[[bip-30]]https://github.com/bitcoin/bips/blob/master/bip-0030.mediawiki[BIP-30] |Duplicate transactions |Pieter Wuille |Standard |Final
+|[[bip-31]]https://github.com/bitcoin/bips/blob/master/bip-0031.mediawiki[BIP-31] |Pong message |Mike Hearn |Standard |Final
+|[[bip-32]]https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki[BIP-32] |Hierarchical Deterministic Wallets |Pieter Wuille |Informational |Final
+|[[bip-33]]https://github.com/bitcoin/bips/blob/master/bip-0033.mediawiki[BIP-33] |Stratized Nodes |Amir Taaki |Standard |Draft
+|[[bip-34]]https://github.com/bitcoin/bips/blob/master/bip-0034.mediawiki[BIP-34] |Block v2, Height in Coinbase |Gavin Andresen |Standard |Final
+|[[bip-35]]https://github.com/bitcoin/bips/blob/master/bip-0035.mediawiki[BIP-35] |mempool message |Jeff Garzik |Standard |Final
+|[[bip-36]]https://github.com/bitcoin/bips/blob/master/bip-0036.mediawiki[BIP-36] |Custom Services |Stefan Thomas |Standard |Draft
+|[[bip-37]]https://github.com/bitcoin/bips/blob/master/bip-0037.mediawiki[BIP-37] |Connection Bloom filtering |Mike Hearn, Matt Corallo |Standard |Final
+|[[bip-39]]https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki[BIP-39] |Mnemonic code for generating deterministic keys |Marek Palatinus, Pavol Rusnak, Aaron Voisine, Sean Bowe |Standard |Proposed
+|[[bip-40]]https://github.com/bitcoin/bips/blob/master/bip-0040.mediawiki[BIP-40] |Stratum wire protocol |Marek Palatinus |Standard |BIP number allocated
+|[[bip-41]]https://github.com/bitcoin/bips/blob/master/bip-0041.mediawiki[BIP-41] |Stratum mining protocol |Marek Palatinus |Standard |BIP number allocated
+|[[bip-42]]https://github.com/bitcoin/bips/blob/master/bip-0042.mediawiki[BIP-42] |A finite monetary supply for Bitcoin |Pieter Wuille |Standard |Draft
+|[[bip-43]]https://github.com/bitcoin/bips/blob/master/bip-0043.mediawiki[BIP-43] |Purpose Field for Deterministic Wallets |Marek Palatinus, Pavol Rusnak |Informational |Draft
+|[[bip-44]]https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki[BIP-44] |Multi-Account Hierarchy for Deterministic Wallets |Marek Palatinus, Pavol Rusnak |Standard |Proposed
+|[[bip-45]]https://github.com/bitcoin/bips/blob/master/bip-0045.mediawiki[BIP-45] |Structure for Deterministic P2SH Multisignature Wallets |Manuel Araoz, Ryan X. Charles, Matias Alejo Garcia |Standard |Proposed
+|[[bip-47]]https://github.com/bitcoin/bips/blob/master/bip-0047.mediawiki[BIP-47] |Reusable Payment Codes for Hierarchical Deterministic Wallets |Justus Ranvier |Informational |Draft
+|[[bip-49]]https://github.com/bitcoin/bips/blob/master/bip-0049.mediawiki[BIP-49] |Derivation scheme for P2WPKH-nested-in-P2SH based accounts |Daniel Weigl |Informational |Draft
